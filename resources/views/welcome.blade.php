@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel in Docker
+                    Laravel in Docker!
                 </div>
 
                 <div class="links">
